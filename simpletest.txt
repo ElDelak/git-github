@@ -1,1 +1,3 @@
 thisis first cool file
+
+I m java developper, and I'm developping for lgs company.
